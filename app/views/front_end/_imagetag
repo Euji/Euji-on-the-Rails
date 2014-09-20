@@ -1,0 +1,4 @@
+<p>
+
+  <%= image_tag @quiz.image_url, :size=>'500x500' %>
+</p>
